@@ -1,6 +1,6 @@
 # Project Title
 
-Guess my-number
+Guess my number
 
 ## Description
 
